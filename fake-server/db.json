@@ -1,0 +1,41 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "name": "Ravi",
+      "salary": 555555
+    },
+    {
+      "name": "Test",
+      "salary": "34344",
+      "id": 3
+    },
+    {
+      "name": "Muskan Kimothi",
+      "salary": "345678",
+      "id": 4
+    }
+  ],
+  "courses": [
+    {
+      "id": 1,
+      "name": "PHP",
+      "description": "Some quick example text to build on the card title and make up the bulk of the card's content."
+    },
+    {
+      "id": 2,
+      "name": "React",
+      "description": "Some quick text to build on the card title and make up the bulk of the card's content."
+    },
+    {
+      "id": 3,
+      "name": "python",
+      "description": "Some quick example text to build on the card title and make up the bulk of the card's content."
+    },
+    {
+      "name": "Java",
+      "description": "asadgfv",
+      "id": 4
+    }
+  ]
+}
